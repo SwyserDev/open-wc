@@ -32,3 +32,4 @@ dist
 build-stats.json
 stats.html
 .rpt2_cache
+docs/.vuepress/public/codelabs/
